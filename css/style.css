@@ -34,10 +34,6 @@ body {
     font-style: normal;
 }
 
-.adress a {
-    color: #434455;
-}
-
 .address a.nav-link {
     font-size: 16px;
     line-height: 1.5;
@@ -48,23 +44,6 @@ body {
 .address a.nav-link:hover,
 .address a.nav-link:focus {
     color: #404bbf;
-}
-
-.nav-link {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-
-.nav-link:hover,
-.nav-link:focus {
-    color: #404bbf;
-}
-
-.nav-link-mail {
-    color: #434455;
 }
 
 .section-one {
