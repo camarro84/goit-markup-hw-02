@@ -26,6 +26,10 @@ body {
     color: #2e2f42;
 }
 
+.nav-menu-first {
+    color: #434455;
+}
+
 .nav-menu:hover:after {
     color: #404bbf;
 }
