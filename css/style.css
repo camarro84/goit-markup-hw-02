@@ -69,7 +69,7 @@ body {
     color: #ffffff;
 }
 
-.button {
+.section-one button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -80,11 +80,11 @@ body {
     cursor: pointer;
 }
 
-.button:hover {
+.section-one button:hover {
     background-color: #404BBF;
 }
 
-.button:focus {
+.section-one button:focus {
     background-color: #404BBF;
 }
 
