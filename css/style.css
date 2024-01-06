@@ -34,7 +34,7 @@ body {
     font-style: normal;
 }
 
-.address a.nav-link {
+.adress a {
     color: #434455;
 }
 
@@ -65,17 +65,6 @@ body {
 
 .nav-link-mail {
     color: #434455;
-}
-
-.contact-info {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.contact-info:hover:after {
-    color: #404bbf;
 }
 
 .section-one {
